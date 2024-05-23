@@ -1,0 +1,21 @@
+[submodule "bundle/fidget.nvim"]
+	path = bundle/fidget.nvim
+	url = https://github.com/j-hui/fidget.nvim.git
+[submodule "bundle/fzf-lua"]
+	path = bundle/fzf-lua
+	url = https://github.com/ibhagwan/fzf-lua.git
+[submodule "bundle/html5.vim"]
+	path = bundle/html5.vim
+	url = https://github.com/othree/html5.vim.git
+[submodule "bundle/nvim-treesitter"]
+	path = bundle/nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter.git
+[submodule "bundle/nvim-web-devicons"]
+	path = bundle/nvim-web-devicons
+	url = https://github.com/nvim-tree/nvim-web-devicons.git
+[submodule "bundle/vim-table-mode"]
+	path = bundle/vim-table-mode
+	url = https://github.com/dhruvasagar/vim-table-mode.git
+[submodule "bundle/nvim-format-buffer"]
+	path = bundle/nvim-format-buffer
+	url = https://github.com/acro5piano/nvim-format-buffer.git
